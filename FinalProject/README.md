@@ -8,7 +8,7 @@ The resulting MappingTea (2).html file is also included in the file. You can dow
 
 ### Dependencies
 All specially downloaded libraries are listed in the notebook cells for ease of use! The installations and imports are listed below for reference as well:
-'''
+```
 !pip install arcgis
 !pip install folium
 !pip install searoute
@@ -20,4 +20,4 @@ from branca.element import Element
 import folium.plugins as plugins
 from IPython.display import HTML, display
 import requests
-'''
+```
